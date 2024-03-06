@@ -41,3 +41,11 @@ numero2 = "8"
 print(int(numero1) + int(numero2))
 
 # Tipos de datos Bools: minuto 27.9
+
+# Práctica TODOCODE
+num1 = 10
+num2 = 31
+if num1 > num2:
+    print("El numero mayor ")
+else:
+    print("El número es menor ")

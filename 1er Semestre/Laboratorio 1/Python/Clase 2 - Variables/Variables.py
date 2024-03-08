@@ -46,7 +46,7 @@ print("Mi grupo favorito es:", miGrupoFavorito, caracteristicas)
 tuBooleano = 1 > 2
 print(tuBooleano)
 
-if tuBooleano :
+if tuBooleano :                                    # Condicionales I
     print("El resultado es verdadera ")
 else:
     print("El resultado es falso")
@@ -58,7 +58,7 @@ else:
 
 # Conversion de la entradas de datos
 numero1 = int(input("Escribe el primer numero:"))
-numero2 = int(input("Escribe el segundo numero:") # Hacer el ejercicio que dejo el profe
+numero2 = int(input("Escribe el segundo numero:"))# Hacer el ejercicio que dejo el profe
 resultado = numero1 + numero2
 print("El resultado de la suma es: ", resultado)
 
@@ -67,12 +67,3 @@ print("El resultado de la suma es: ", resultado)
 
 
 
-# Práctica TODOCODE
-num1 = 10
-num2 = 31
-if num1 > num2:
-    print("El numero mayor ")
-else:
-    print("El número es menor ")
-
-# Clase 4 - Operadores
